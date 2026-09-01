@@ -1,0 +1,15 @@
+QUBRIFT GİZLİLİK POLİTİKASI
+Yürürlük: 1 Eylül 2026
+
+QUBRIFT skor, coin, ayar, görev, başarım, kariyer ilerlemesi ve diğer oyun durumlarını cihazda yerel olarak saklar. Mevcut sürümde QUBRIFT kullanıcı hesabı yoktur.
+
+QUBRIFT Google Mobile Ads (AdMob) kullanır. Bölge, onay ve cihaz ayarlarına bağlı olarak Google; IP adresi/genel konum, cihaz veya reklam tanımlayıcıları, uygulama ve reklam etkileşimleri, tanılama ve performans bilgilerini reklam, analiz, güvenlik ve sahtekarlığı önleme amaçlarıyla işleyebilir. Gerekli bölgelerde reklam gizliliği tercihleri Google User Messaging Platform ile yönetilir.
+
+Ödüllü reklamlar isteğe bağlıdır ve oyun içi canlanma veya bonus coin sağlayabilir. Online Arena bir production sunucusu yapılandırılana kadar kapalıdır. Gelecekte etkinleştirilirse sunucu veri uygulamaları için bu politika yeniden incelenmelidir.
+
+Yerel oyun verileri Android uygulama verilerini temizleyerek veya uygulamayı kaldırarak silinebilir. Google tarafından işlenen reklam verileri Google'ın gizlilik kontrollerine ve saklama uygulamalarına tabidir.
+
+QUBRIFT 13 yaş altı çocuklara yönelik bir hizmet olarak tasarlanmamıştır. Son Google Play hedef kitle ayarı amaçlanan kitleyle uyumlu olmalıdır.
+
+İletişim: {{SUPPORT_EMAIL}}
+Web sitesi: {{WEBSITE_URL}}

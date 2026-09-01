@@ -1,0 +1,15 @@
+QUBRIFT PRIVACY POLICY
+Effective: 1 September 2026
+
+QUBRIFT stores scores, coins, settings, missions, achievements, career progress and other gameplay state locally on the device. The current release does not provide a QUBRIFT user account.
+
+QUBRIFT uses Google Mobile Ads (AdMob). Depending on region, consent and device settings, Google may process IP address/general location, device or advertising identifiers, app and ad interactions, diagnostics and performance information for advertising, analytics, security and fraud prevention. QUBRIFT uses Google's User Messaging Platform where required to manage advertising privacy choices.
+
+Rewarded ads are optional and can provide an in-game revive or bonus coins. Online Arena is disabled until a production server is configured. If enabled in a future version, this policy must be reviewed for server-side data practices.
+
+Local gameplay data can be deleted by clearing QUBRIFT app data or uninstalling the application. Advertising data processed by Google is subject to Google's privacy controls and retention practices.
+
+QUBRIFT is not designed as a service directed to children under 13. The final Google Play target-audience configuration must match the intended audience.
+
+Contact: {{SUPPORT_EMAIL}}
+Website: {{WEBSITE_URL}}
